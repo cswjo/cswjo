@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on a python project and a web development.
 - 🌱 I’m currently learning all again and also new stuff in this world.
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 👯 I’m looking to collaborate on many things.
+- 🤔 I’m looking for help with old, if necessary, and new technologies.
 - ⚡ Fun fact: I am a simulation engineer in the automotive industry, who has always been interested in programming, because I love creating things and it seems limitless here.
